@@ -1,0 +1,30 @@
+.container1 {
+  width: 1900px;
+  margin: auto;
+}
+header {
+  background-color: rgba(0, 0, 0, 0.896);
+  width: 1900px;
+  height: 2300px;
+  margin: auto;
+}
+.wrapper {
+  width: 1400px;
+  margin: auto;
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+ul,
+ol {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 30px;
+}
+li {
+  transition: 0.3s ease-in-out;
+}

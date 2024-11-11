@@ -1,0 +1,36 @@
+.history__wrapper {
+  width: 1200px;
+  background-color: rgba(0, 0, 0, 0.664);
+  display: flex;
+  margin: auto;
+  gap: 145px;
+  align-items: center;
+  margin-top: 120px;
+}
+.history__img {
+  margin-left: 80px;
+  margin-top: 60px;
+}
+.btn2 {
+  width: 200px;
+  margin-top: 36px;
+  padding: 20px 36px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  transition: 0.3s ease-in-out;
+}
+.btn2:hover {
+  border: 2px solid #c99e71;
+  color: #c99e71;
+  font-weight: 700;
+  background-color: white;
+}
+.history__title {
+  padding-top: 25px;
+  color: white;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 62.4px;
+}
+.history__data {
+  color: #ffffffcc;
+}
